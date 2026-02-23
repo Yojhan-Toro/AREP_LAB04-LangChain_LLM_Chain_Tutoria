@@ -26,7 +26,7 @@ Una serie de pasos que te indican cómo ejecutar un entorno de desarrollo.
 **Paso 1 —** Clona el repositorio
 
 ```
-git clone https://github.com/TU_USUARIO/AREP_LAB04-LangChain_LLM_Chain_Tutorial.git
+git clone [https://github.com/TU_USUARIO/AREP_LAB04-LangChain_LLM_Chain_Tutorial.git]
 cd AREP_LAB04-LangChain_LLM_Chain_Tutorial
 ```
 
